@@ -72,6 +72,14 @@ As part of our risk considerations, we aimed at creating a safe sporting environ
 - The analysis of player ratings was conducted using the top 3 teams of the 2021 league results as the data had a more representative sample size for the key player metrics the model was to consider.
 
 
+## References
+Kalen, A., Ezequiel, R., Sal de Rellan-Guerra, A., & Lago-Penas, C. (2019). Are Soccer Players Older Now Than Before? Aging Trends and Market Value in the Last Three Decades of the UEFA Champions League. Performance Analysis in Sport. 
+
+J. Almulla and T. Alam, "Machine Learning Models Reveal Key Performance Metrics of Football Players to Win Matches in Qatar Stars League," in IEEE Access, vol. 8, pp. 213695-213705, 2020, doi: 10.1109/ACCESS.2020.3038601. 
+
+Cortez, A.; Trigo, A.; Loureiro, N. Football Match Line-Up Prediction Based on Physiological Variables: A Machine Learning Approach. Computers 2022, 11, 40. https://doi.org/10.3390/ computers11030040 
+
+Ajadi, T., Ambler, T., Udwadia, Z. and Wood, C., 2020. Annual Review of Football Finance 2020. [online] www2.deloitte.com. Available at: <https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/sports-business-group/deloitte-uk-annual-review-of-football-finance-2020.pdf> [Accessed 20 March 2022]. 
 
 
 
