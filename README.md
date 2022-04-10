@@ -53,7 +53,6 @@ The increased investment from the team, paying salaries to players, other person
 |2029|38.96|41.19|
 |2030|40.83|43.05|
 |2031|45.36|47.58|
-
 ## Risk Consideration
 
 As part of our risk considerations, we aimed at creating a safe sporting environment for our players whilst managing the various liability and investment risks that could potentially occur. We broke this down into 4 main areas; health, reputational, operational and investment risk. The health risk was quite easy to identify and mainly concerns the fitness and ongoing health status of our players. We added extra players into the squad in case any sickness or injuries affect our starting 11. As part of our operational risks, we want to ensure that our projected revenues are not too volatile and that it can sustain our costs. We aim to allocate into stable revenue streams such as extending broadcasting contracts. Moreover, we can mitigate investment risks by diversifying our investments into both short term assets and long term bonds.
