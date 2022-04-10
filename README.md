@@ -53,6 +53,25 @@ The increased investment from the team, paying salaries to players, other person
 |2029|38.96|41.19|
 |2030|40.83|43.05|
 |2031|45.36|47.58|
+
 ## Risk Consideration
 
 As part of our risk considerations, we aimed at creating a safe sporting environment for our players whilst managing the various liability and investment risks that could potentially occur. We broke this down into 4 main areas; health, reputational, operational and investment risk. The health risk was quite easy to identify and mainly concerns the fitness and ongoing health status of our players. We added extra players into the squad in case any sickness or injuries affect our starting 11. As part of our operational risks, we want to ensure that our projected revenues are not too volatile and that it can sustain our costs. We aim to allocate into stable revenue streams such as extending broadcasting contracts. Moreover, we can mitigate investment risks by diversifying our investments into both short term assets and long term bonds.
+
+## Assumptions
+- Each FSA season will be played out over the course of one calendar year. We have assumed that at the end of the 5th year our selected team will be placed inside the top 10, and finally in the 9th year of play we will win the FSA championship. These assumptions are reflected in the changes to revenues and expense items mentioned in the implementation plan. 
+- All revenues and expense documented (including player salaries) are all payable at the end of each year.
+- Interest rates and inflation rates used throughout the analysis were assumed to follow exponential smoothing time series estimates.
+- For per capita estimates, we projected Rarita’s population using linear regression. 
+
+
+## Data Limitations
+- When using our boosting modelling method, we had to omit several variables that contained a large amount (often >50%) of spurious negative values: for example, negative attempts, goals and shots, as these do not make sense.
+- To avoid NA player ratings, we imputed the missing data using predictive mean matching. For our boosting model however, players with any missing values were removed as they only made up a small percentage of the available dataset, to keep our rating model as accurate as possible.
+- Player salaries were missing for some players that we had chosen and therefore we imputed the salary with the average of those players (up to 10) with the same or similar rating. 
+- The analysis of player ratings was conducted using the top 3 teams of the 2021 league results as the data had a more representative sample size for the key player metrics the model was to consider.
+
+
+
+
+
