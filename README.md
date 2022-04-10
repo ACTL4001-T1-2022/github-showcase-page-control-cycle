@@ -38,6 +38,22 @@ The national team was expected to win in the end of year 9. As a result, in year
 ![Figure 2](Proposed%20Expenses.png)
 ![Figure 3](Proposed%20Revenues.png)
 
+## Economic Impact
+The increased investment from the team, paying salaries to players, other personnel and facilities, lead to high private consumption. The team will regularly invest a substantial proportion of its cash in risk free assets with varying maturities to grow its funds. These contribute to higher gross private investment, leading to a higher GDP per capita. In the first year, the injection of a considerable sum of cash into the team would also significantly boost the GDP. The following table describes the relative increase in the GDP that is expected compared to the forecasted GDP. Growth in the expected GDP is around 0.3% per year which is quite conservative but will contribute to slow prosperous development of the economy. Rarita’s better players were loaned for 10% over their salary, assuming that their salary would only increase by inflation each year, however, larger jumps in salary are expected when assuming that Rarita will be successful this would contribute to increases to the forecasted GNI.
+
+|Year|Expected Increase in GDP per Capita|Expected Increase in GNI per Capita|
+|:---|:---|:---|
+|2022|84.26|84.26|
+|2023|40.97|40.97|
+|2024|60.90|63.06|
+|2025|39.74|41.92|
+|2026|40.05|42.25|
+|2027|41.13|43.34|
+|2028|40.83|43.04|
+|2029|38.96|41.19|
+|2030|40.83|43.05|
+|2031|45.36|47.58|
+
 ## Risk Consideration
 
 As part of our risk considerations, we aimed at creating a safe sporting environment for our players whilst managing the various liability and investment risks that could potentially occur. We broke this down into 4 main areas; health, reputational, operational and investment risk. The health risk was quite easy to identify and mainly concerns the fitness and ongoing health status of our players. We added extra players into the squad in case any sickness or injuries affect our starting 11. As part of our operational risks, we want to ensure that our projected revenues are not too volatile and that it can sustain our costs. We aim to allocate into stable revenue streams such as extending broadcasting contracts. Moreover, we can mitigate investment risks by diversifying our investments into both short term assets and long term bonds.
